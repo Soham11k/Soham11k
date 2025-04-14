@@ -17,5 +17,4 @@ I am an undergraduate student pursuing a Bachelor of Technology in Computer Scie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soham11k&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Soham11k/Soham11k/blob/output/github-snake-dark.svg)
