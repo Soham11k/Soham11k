@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM University in KTR. My<br>passion for creating exceptional and memorable user experiences through UI/UX design is a driving force in my academic journey. In addition,<br>I firmly believe in the transformative potential of AR/VR technology, which will revolutionize the world and simplify life for all. I am also deeply<br>interested in digital image processing and exploring its potential to enhance visual computing and interactive experiences.<br><br>
+I am an undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM University in KTR. My passion for creating exceptional and memorable user experiences through UI/UX design is a driving force in my academic journey. In addition,<br>I firmly believe in the transformative potential of AR/VR technology, which will revolutionize the world and simplify life for all. I am also deeply<br>interested in digital image processing and exploring its potential to enhance visual computing and interactive experiences.<br><br>
 
 
 ## 🌐 Socials:
@@ -17,5 +17,4 @@ I am an undergraduate student pursuing a Bachelor of Technology in Computer Scie
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Soham11k&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Soham11k/Soham11k/blob/output/github-snake.svg)
