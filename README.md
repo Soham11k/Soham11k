@@ -53,7 +53,7 @@ visual computing and interactive experiences.
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=COMMITS&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -68,8 +68,20 @@ visual computing and interactive experiences.
 
 <div align="center">
   <a href="https://open.spotify.com/user/31tihqxsm3w2qj3bh6u36iakea7y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tihqxsm3w2qj3bh6u36iakea7y&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tihqxsm3w2qj3bh6u36iakea7y&count=1&unique=false" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=WELCOME&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
