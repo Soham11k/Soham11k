@@ -1,6 +1,8 @@
 # 💫 About Me:
-I am an undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM University in KTR. My passion for creating exceptional and memorable user experiences through UI/UX design is a driving force in my academic journey. In addition,<br>I firmly believe in the transformative potential of AR/VR technology, which will revolutionize the world and simplify life for all. I am also deeply<br>interested in digital image processing and exploring its potential to enhance visual computing and interactive experiences.<br><br>
-
+As an undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM University in KTR, I am deeply
+committed to the transformative potential of augmented reality (AR) and virtual reality (VR) technology. These technologies have the potential to
+revolutionize the world and simplify life for all. Furthermore, I am particularly interested in digital image processing and exploring its potential to enhance
+visual computing and interactive experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sohamkaul_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-kaul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sohamkaul366@gmail.com) 
