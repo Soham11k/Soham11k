@@ -1,3 +1,5 @@
+<h2 align="center">Hello World!!!</h2>
+
 # 🙋🏻‍♂️ About Me:
 As an undergraduate student pursuing a Bachelor of Technology in Computer Science and Engineering at SRM University in Kattankulathut, 
 I am deeply
@@ -5,7 +7,7 @@ committed to the transformative potential of augmented reality (AR) and virtual 
 revolutionize the world and simplify life for all. Furthermore, I am particularly interested in digital image processing and exploring its potential to enhance
 visual computing and interactive experiences.
 
-<h2 align="center">Hello World!!!</h2>
+
 
 ###
 
